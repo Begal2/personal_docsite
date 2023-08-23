@@ -14,6 +14,6 @@
       </ul>
     </div>
     <div style="flex: 1;">
-        ![](../images/prefix/profile.png)
+        ![图片描述](../images/prefix/profile.png)
     </div>
 </div>
