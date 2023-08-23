@@ -14,6 +14,6 @@
       </ul>
     </div>
     <div style="flex: 1;">
-        <img src="../images/prefix/profile.jpg" alt="图片">
+        ![](../images/prefix/profile.png)
     </div>
 </div>
