@@ -1,7 +1,7 @@
-* [哔哩哔哩](https://space.bilibili.com/1100962821)
+* [bilibili](https://space.bilibili.com/369010641?spm_id_from=333.1007.0.0)
 
-* [枫雨在线](https://www.ifyzx.com)
+* [linkedin](link)
 
-* 友情链接
-  * [小枫社长](https://space.bilibili.com/1100962821)
-  * [枫雨在线](https://www.ifyzx.com)
+* 还没想好
+  * [还没想好1.0](https://space.bilibili.com/1100962821)
+  * [还没想好2.0](https://www.ifyzx.com)

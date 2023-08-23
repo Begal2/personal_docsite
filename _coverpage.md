@@ -1,9 +1,9 @@
 <!-- _coverpage.md -->
 
-# 小枫社长de技术文档
-> 这是一份计算机技术学习资料
+# Welcome to Tingyu's personal docsite
+> Have fun and know about me
 
-- Copyright © 2023 小枫社长 All Rights Reserved.
+- Copyright © 2023 gelatissima🍨
 
-[小枫社长](https://space.bilibili.com/1100962821)
-[开始阅读](README.md)
+[Tingyu's personal website](link)
+[start here](README.md)
