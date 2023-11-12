@@ -1,3 +1,54 @@
+# Digital Humanities
+
+**Knowledge Graph of Data Analysis and Visualization**
+
+- The challenge in the humanities lies in its difficulty to quantify. Humanities computing has gradually expanded into humanities disciplines such as history and art, with applications extending beyond electronic texts to include multimedia technologies such as images, audio-video, digital maps, and virtual reality. With the development of visualization theory and technology, visualization has been widely applied in text and big data. The data processed in visualization has an abstract data structure, where the process typically involves abstraction, transformation, mapping, and integration of non-spatial data, presented in the form of graphics or images.
+
+- In digital humanities research, data analysis is only a small part, and the final interpretation still relies mainly on the specialized knowledge of humanities. With the development of information technology, the transformation of knowledge carriers from books to databases, traditional reading and reference methods can no longer keep pace with the development of digital knowledge. Humanities provide ethical sensitivity, and addressing issues related to human life and dignity requires humanistic reflection and questioning, not solely relying on big data.
+
+**Methods in Digital Humanities**
+
+**Mapping**
+- Mapping is one of the commonly used methods in digital humanities, visualizing geographical and spatial data as maps, either static or interactive. It displays geographical information using graphics, markers, colors, etc., aiding in understanding spatial relationships, trends, and distributions.
+
+**Simulation**
+- Simulation is an essential method in digital humanities, using computer models to simulate real-world scenarios. In the humanities, it can be used to simulate historical events, social interactions, cultural dissemination, etc. Agent-Based Modeling (ABM) is a commonly used method to study the impact of individual behavior on the overall system.
+
+**Digital Humanities Technologies**
+
+- 1. Text Mining: Analyzing and extracting information from non-relational datasets.
+- 2. Network Analysis: Exploring, analyzing, spatializing, filtering, clustering, manipulating, and exporting graphical methods.
+- 3. Geographic Analysis: Application of Historical Geographic Information Systems (GIS) in historical research, such as historical rivers, topography, urban history, etc.
+
+**Research Methods in Digital Humanities**
+
+- Research methods in digital humanities include visual analysis, semantic structure analysis, network analysis, geographical analysis in augmented reality, etc.
+
+**Examples of Digital Humanities Activities**
+
+Activities in digital humanities include but are not limited to:
+- Digitization of archival documents in digital archives.
+- 3D modeling of cultural relics.
+- Compilation and analysis of social media content.
+- Map-based methods like Historical Geographic Information Systems.
+- Corpus linguistics, dialectology, translation studies, etc.
+- Data visualization, such as social network graphs and cluster graphs.
+
+**Key Content Areas in Digital Humanities**
+
+- 1. Construction of Humanities Databases: Digitizing non-digital humanities materials, constructing digital libraries, and datasets.
+- 2. Development and Use of Digital Tools: Creating digital tools to solve humanities problems, utilizing tools from non-humanities fields to analyze humanities data.
+- 3. Innovative Research Methods: Innovating paradigms for humanities research by combining qualitative and quantitative methods.
+- 4. Innovation in Cultural Heritage: Using digital technology to promote the inheritance, dissemination, and innovation of cultural heritage.
+
+- In the book "Debates in the Digital Humanities," it is mentioned that the scope of digital humanities includes not only digital archives, quantitative analysis, tool development, etc., but also broader methods and applications. Digital humanities strives to integrate technology with humanities disciplines, driving the inheritance and innovation of cultural heritage.
+
+- Compared to NLP, the process in digital humanities is precisely the opposite. NLP involves language experts processing datasets, then modeling by technical personnel. In digital humanities, technical personnel process data and present it to humanities scholars.
+
+- Digital Humanities: Processing humanities, language, and historical data.
+
+In the book "Debates in the Digital Humanities," it is mentioned that the definition of the digital humanities field is constantly changing, encompassing not only archives, analysis, and tools but also more extensive methods and applications. Digital humanities aim to integrate technology with humanities disciplines, promoting the inheritance and innovation of cultural heritage.
+
 # 数字人文
 **数据分析和可视化知识图谱**
 

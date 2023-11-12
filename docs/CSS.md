@@ -1,3 +1,49 @@
+# Computational Social Science
+
+**Unique Characteristics of Computational Social Science**
+
+- Computational Social Science possesses unique traits by breaking the limitations of traditional research methods through the application of complex system modeling, big data, and machine learning. This approach enables in-depth exploration of emergent phenomena and dynamic evolution within social systems, offering opportunities to delve into the internal patterns of social systems.
+
+**Interdisciplinary Nature and Reexamination**
+
+- Computational Social Science is highly interdisciplinary, requiring researchers to reexamine human society and individual behaviors. This reassessment expands our understanding of social science and prompts a reconsideration of existing social science and philosophy theories.
+
+**Origin of Computational Social Science**
+
+- In February 2009, the journal "Science" published an article titled "Computational Social Science," co-authored by scientists such as David Lazer and Alex Pentland. This article is considered the formal inception of Computational Social Science. It introduced the background and goals of Computational Social Science, emphasizing innovative methods such as computer technology, model establishment, and big data analysis to study human behavior.
+
+**Definition and Scope**
+
+- Levillain defines Computational Social Science as "interdisciplinary research on various fields of society using computational media, ranging from individual actors to the largest groups." It encompasses not only big data, social network analysis, and social simulation models but also multiple domains of scientific exploration.
+
+**Data-Driven Exploration**
+
+- Computational Social Science utilizes big data to acquire and analyze information. Big data not only refers to a massive volume of data but also involves diversity, comprehensiveness, high speed, and fine resolution. Through data modeling and simulation, Computational Social Science can reveal patterns and trends in social phenomena.
+
+**Data Acquisition and Subjectivity**
+
+- The acquisition of big data also has subjectivity, involving choices of data extraction tools, processing platforms, and data sources that can impact the data. Data creation and acquisition are not neutral processes; they are influenced by activities and relationships, necessitating careful consideration.
+
+**Empiricism and Interpretivism**
+
+- Social science research methods include empiricism and interpretivism. Empiricism advocates applying natural science methods to study social phenomena, introducing quantitative research methods to enhance explanatory power. Interpretivism emphasizes individual interpretation and subjective experience, asserting that individual behavior and social relations require in-depth understanding.
+
+**Emergent Phenomena and Complexity**
+
+- Social science research faces challenges of complexity and emergent phenomena. The dynamic evolution of social systems and the unpredictability of individual behavior make research challenging. Computational Social Science addresses these challenges by interpreting and predicting complex human behavior through data modeling and simulation.
+
+**Data and Causal Relationships**
+
+- Correlation and causation in big data are different modeling standards. Some argue that the correlation in massive data is sufficient for inference, while others assert that causation similar to scientific laws requires scrutiny.
+
+**New Empiricism and Data Acquisition**
+
+- New empiricism emphasizes that big data can capture the entire domain, providing complete resolution without the need for prior theories or models. Subjectivity should be considered in data acquisition when choosing data tools and platforms.
+
+**Task of Social Science**
+
+- Social science concerns understanding social order and requires a synthesis of methods from natural and social sciences. Both empirical and interpretive methods contribute to understanding social phenomena.
+
 # 计算社会科学
 **计算社会科学的独特特质**
 

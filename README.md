@@ -7,12 +7,12 @@
 
 ![profile](images/prefix/profile.png)
 
-- 在这里我分享了数据分析的学习和项目报告以及一些其他想要分享的知识
+- 在这里我分享了和数据分析，代码学习相关的项目报告以及一些其他想要share的知识
 - 更多好玩的东西还在持续更新中，有任何想要分享的想法，好玩的东西请邮件联系我：gelatissima@yahoo.com
 - 来认识我吧！🥳
 
 
-As a language learner and junior data analyst, I am passionate with great imagination towards life.  
+As a language learner-- I speak Chinese, English and Italian-- I am passionate with great imagination towards life.  
 I love communicating in both languages and codes, which makes thoughts💬 sparkling in two important dimensions.  
 As an imperfect perfectionist, I am meticulous, patient, logic- and solution- oriented at work. Also, I am a friendly and easy-going person with sense of humor.  
 
@@ -20,7 +20,7 @@ As an imperfect perfectionist, I am meticulous, patient, logic- and solution- or
 
 
 
-Recent Work
+Recent programming works
 -----------
 
 -----------

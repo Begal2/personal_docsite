@@ -1,6 +1,6 @@
 * [bilibili](https://space.bilibili.com/369010641?spm_id_from=333.1007.0.0)
 
-* [linkedin](link)
+* [linkedin](https://www.linkedin.com/in/tingyu-wang-329845225/)
 
 * 还没想好
   * [还没想好1.0](https://space.bilibili.com/1100962821)

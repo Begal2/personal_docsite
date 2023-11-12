@@ -10,9 +10,9 @@
     * [Leetcode experiences](./docs/mysql_lc_exp.md)
   * PowerBI
     * [Adventure Work Project](./docs/BI_Adventure.md)
-    * [Maven Project](./docs/BI_Maven.md)
+    * [Maven Project_instruction](./docs/BI_Maven.md)
   * Excel
-  * Interdisciplinary Data science
+  * Interdisciplinary Data science Learning notes
     * [Computational Social Science](./docs/CSS.md)
     * [Digital Humanity](./docs/DH.md)
 * Python Development
